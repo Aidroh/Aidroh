@@ -56,8 +56,6 @@ Sadly, Blender can't handle opening exported models directly
 
 #### Files
 
-- **Trim Trailing Whitespace on Save** > On
-  - Everyone should have, free clean up
 - **Autosave Interval Secs** > Anything but 0
   - I set mine to 15, this is just autosave. May not always be desireable, but with undo steps and version control, I think it's nice to have on
 - **Auto Reload Scripts on External Change** > On
