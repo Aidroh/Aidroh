@@ -25,7 +25,7 @@ Now some editor settings:
 
 ### Theme
 
-- As stated before, I use Passive Star's [Minimal Theme](<https://github.com/passivestar/godot-minimal-theme>)
+- As stated before, I use Passive Star's [Minimal Theme](<https://github.com/passivestar/godot-minimal-theme>) (except for the font change)
 
 ## FileSystem
 
