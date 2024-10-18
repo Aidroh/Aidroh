@@ -10,7 +10,7 @@ Now some editor settings:
 - **Editor Screen** and **Project Manager Screen** > Screen with Mouse Input
  	- Sets what monitor Godot opens on, generally will be more correct than default behaviour. Could also do "Screen With Keyboard Focus"
 - **Use Native File Dialogs** > On
- 	- I find Godot's custom file explorer clunky, this lets me use the Windows default. Very nice
+ 	- I find Godot's custom file explorer clunky, this lets me use the Windows default. Note this has a few usability bugs, maybe wait until 4.4
 - **Save on Focus Loss** > On
  	- When I tab out, auto save's the scene/script. Nice when tabbing to Github Desktop
 - **Import Resources When Unfocused** > On
