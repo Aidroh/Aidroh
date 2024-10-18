@@ -7,8 +7,8 @@ Now some editor settings:
 
 ### Editor
 
-- **Editor Screen** and **Project Manager Screen** > Screen With Keyboard Focus
- 	- Sets what monitor Godot opens on, keyboard focus generally better since that's most likely my "active" monitor. Could also do "Screen with mouse input"
+- **Editor Screen** and **Project Manager Screen** > Screen with Mouse Input
+ 	- Sets what monitor Godot opens on, generally will be more correct than default behaviour. Could also do "Screen With Keyboard Focus"
 - **Use Native File Dialogs** > On
  	- I find Godot's custom file explorer clunky, this lets me use the Windows default. Very nice
 - **Save on Focus Loss** > On
@@ -31,9 +31,9 @@ Now some editor settings:
 
 ### External Programs
 
-- Hook up any external editors you have (raster/vector/audio/3d model), this allows right-clicking eg an mp3 file, choosing "Open in External Program", and automatically sending it straight into Audacity
-If unset, uses system default
-Sadly, Blender can't handle opening exported models directly
+- Hook up any external editors you have (raster/vector/audio/3d model). this allows right-clicking (for example) an mp3 file, choosing "Open in External Program", and automatically sending it straight into  Audacity\
+If unset, uses system default\
+Sadly, Blender can't handle opening exported models (eg gltf) directly
 
 ### Directories
 
